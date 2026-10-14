@@ -1,0 +1,1 @@
+{"schema":"flybrainlabs-synthetic-connections-v1","nodes":["example-A","example-B","example-C"],"connections":[{"source":"example-A","target":"example-B","synapses":2},{"source":"example-B","target":"example-C","synapses":1}]}
